@@ -6,7 +6,6 @@ from parsers.data import DataParser
 from parsers.config import ConfigParser
 
 
-
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     markup_parser = MarkupParser("markup.txt")
